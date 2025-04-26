@@ -15,5 +15,5 @@ email : mahmud.ali@pesantren.ac.id
 pass : teacher123
 
 role Student: 
-email : geofannywewe@gmail.com
+email : ahmadfarhan@pesantren.id
 pass : teacher123
